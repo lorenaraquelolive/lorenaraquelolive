@@ -8,7 +8,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaraquelolive&show_icons=true&theme=holi&v=1)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaraquelolive&layout=compact&theme=holi)
 
 <div style="display: inline_block"><br>
