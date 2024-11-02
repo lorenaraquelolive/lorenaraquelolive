@@ -7,7 +7,6 @@
 🎯 Objetivo Profissional: Contribuir para o crescimento e inovação através de soluções tecnológicas eficazes e experiência de usuário aprimorada, adaptando-me aos desafios do mercado e colaborando em equipes de alto impacto.
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaraquelolive&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaraquelolive&layout=compact&theme=holi)
 
 <div style="display: inline_block"><br>
